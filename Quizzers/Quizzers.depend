@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735070254 source:c:\users\cguru\documents\sit algo project\quizzers\main.c
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+
